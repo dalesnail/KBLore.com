@@ -55,3 +55,10 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
+`gatsby-plugin-sharp`,
+    {
+        resolve: 'gatsby-source-prismic-graphql',
+        options: {
+            repositoryName: 'Keyboardlore', // (REQUIRED, replace with your own)
+        }
+    },
