@@ -61,4 +61,4 @@ module.exports = {
         options: {
             repositoryName: 'Keyboardlore', // (REQUIRED, replace with your own)
         }
-    },
+    }
